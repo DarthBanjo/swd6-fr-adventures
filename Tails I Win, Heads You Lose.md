@@ -1,5 +1,5 @@
 # Tails I Win, Heads You Lose.
-*A scenario for Star Wars D6 where players learn the meaning of the term “gilded cage”, and where the gamemaster strives to illustrate the different forms of character paranoia.*
+##### A scenario for Star Wars D6 where players learn the meaning of the term “gilded cage”, and where the gamemaster strives to illustrate the different forms of character paranoia.
 
 [banner]: https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_banner.jpg "Man Running from ISB Agents" 
 [billet]: https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_billet.jpg "Transit Billet" 
@@ -7,24 +7,21 @@
 [pegasus]: https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_pegasus.png "Pegasus Icon" 
 [pegasusmap]: https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_station.jpg "Map of Pegasus Station" 
 
-**Original Title:** Pile Je Gagne, Face Tu Perds
+**Original Title:** Pile Je Gagne, Face Tu Perds  
 **Original Text:** Jean-Pierre Pécau **Illustrations:** Greg Cervall **Player Aids:** Thibaud Béghin
 
-**Translator random notes:**  I've used footnotes to mark things where appropriate. The terms “Las Vegas”, “sunglasses” have been replaced with a more descriptive explanation. I added heavy blaster pistols to the goons since they had no weapons. I changed “Bob Macpherson” to “Roba Spierre”, because that’s totally a boring Earth name and not a Star Wars one. Aaron Prast is supposed to have an actual coin from Mexico on Earth – I left that out and just called it a piece of gold.
+*Translator random notes: I've used footnotes to mark things where appropriate.* 
 
 ![banner]
 
-<table>
-  <tr>
-    <td><img src="https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_pegasus.png" width="250" /></td>
-     <td><b>Pegasus XIII has the reputation of becoming the new entertainment hub of this part of the galaxy, famous for its casinos, hotels, and resorts. You can play everything, at any time of day or night, including double-or-nothing with the troops of the Empire.</b></td>
-  </tr>
- </table>[^1]
+<p align="center"><img src="https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_pegasus.png" width="120" /> </p>
+
+**Pegasus XIII has the reputation of becoming the new entertainment hub of this part of the galaxy, famous for its casinos, hotels, and resorts[^1]. You can play everything, at any time of day or night, including double-or-nothing with the troops of the Empire.**
 
 [^1]: I removed the term "Las Vegas of Space" and added a more descriptive explanation.
 
 ## The Missing Link
-The Rebellion has entrusted the characters with an important mission. In less than 72 hours, a rebel fleet will pass through the local sector, and will need to make a stopover at the **Itkal Rebel base** and the base's facilities must be ready in time.
+The Rebellion has entrusted the characters with an important mission. In less than 72 hours, a rebel fleet will pass through the Lion system, and will need to make a stopover at the **Itkal Rebel base** and the base's facilities must be ready in time.
 
 To do this, the characters must take this message to a contact who will pass it on to another contact, and so on until the Itkal officials have been notified. This procedure is commonly used by the Rebel Intelligence Services, when comms channels might be compromised or monitored by the Empire.
 
@@ -36,5 +33,134 @@ Once on Lax III, they are to rendezvous with Herss in the central terminal of th
 
 Immediately, three figures in dark suits and eyewear will chase him. 
 
+🔳 **Imperial Counterintelligence Operatives**  
+All stats 2D, except: Blaster 4D, Dodge 4D, Brawling 3D, Brawling Parry 4D. Heavy blaster pistol (5D)[^3].
 
-🔳 **Imperial Counterintelligence Operatives** All stats 2D, except: Blaster 4D, Dodge 4D, Brawling 3D, Brawling Parry 4D. Heavy blaster pistol (5D).
+[^3]: I added heavy blaster pistols to the goons since they had no weapons.
+
+As the characters react, the messenger and his pursuers disappear into the corridors of the terminal’s annexes; and a trained ear will reveal the sounds of several blaster shots being fired. 
+
+Guided by the sound, the characters should have no difficulty finding the location of the confrontation (a cargo area in the lower levels of the terminal). Should they arrive quickly enough, they will be caught in the crossfire of the goons, who the players will have to overcome if they want to pass their message onto Vaklav Herss.
+
+During the shootout, the goons are revealed to be counterintelligence operatives of the Empire, and Vaklav is mortally wounded. The Empire’s agents are breaking the communication chain. If the fight goes on too long the agents will retreat and flee, leaving the players unsuccessfully attempting to save the dying Vaklav. 
+
+Vaklav’s body has a return ticket for **Pegasus XIII**, and an easy search result will locate it. Pegasus XIII is a space station in orbit of Lax III (the planet they are on), and is the place to be for games and pleasures. The return ticket is for this evening, and is an open ticket, i.e. unnamed that anyone can use. 
+
+From there, it is not very complicated to complete the picture. The characters are aware of the methods of the services of information from the Rebels: the couriers must always foresee a chain in order to minimize the risks and confuse the sleuths of the Empire. Clearly the next courier is on Pegasus XIII and waits for Vaklav. 
+
+The *only* problem is that you have to find them, and have no idea who they are, nor the passwords needed to exchange to make themselves known. But the fleet is waiting, and must press on to Pegasus XIII, identify the courier, deliver their message, and time is running out.
+
+![billet]
+
+**Gamemaster Note:** The deduction of the characters, although logical, is incorrect. The Imperial counterintelligence operatives have set up a diabolical strategy to get a hold of the data carried by the couriers. The ticket on Vaklav is part of a plan by agents of the Empire to lure the characters to the station, and have them meet with agents of the Empire who will pretend to be the couriers of the Rebellion. It’s worth the risk, recent Rebellion couriers have been using mimetic drugs to make them highly immune to Imperial interrogation truth serums and torture. 
+
+Pegasus XIII is a closed system where agents of the Empire can keep an eye on all aboard. If the information about the rebel fleet, the Lion system, or Itkal base (even just Itkal)  is spoken aboard the station, the Empire will know about it. This last bit of information is to be carefully managed by the gamemaster. If the information leaks, the Empire will know and the players and Rebellion will have to deal with all the consequences that entails.
+
+A particularly clever character might legitimately wonder how the Empire's agents got the information. The confrontation in the cargo area seems to have been attempting to delay but not capture the players, let alone eliminate them. And with their disappearing at the end of the fight, is unlike the Empire’s methods. 
+
+This thought should only be formed by a character with extensive experience in secret confrontations with the Empire or counterintelligence. It’s an accurate thought but cannot easily be confirmed. The imperial agents had to delay the players enough in order so that a subordinate could get a ticket to Pegasus XIII, and slip it onto the person of Vaklav. 
+
+This clever deduction can be confirmed by the time of the withdrawal of the ticket (a few minutes before the exchange of fire in the cargo area). A moderate or difficult perception roll would indicate the time indicated on the ticket is three minutes after their rendezvous with Vaklav. Were the players on time? That might tip them off.
+
+The ticket mystery will stop here: it was taken from a ticket machine and it is therefore useless to look for a hostess so that she can describe its buyer. It’s possible that the players have mistaken the time as the hour is enough incorrectly printed on it. Maybe the droid is incorrectly calibrated (this would not be the first time). It is the gamemaster’s job in this situation to give hints yet cause doubt. Why did their contact get a ticket to Pegasus XIII while he was pursued by the agents of the Empire?
+
+Another asset to inquisitive characters: the agents of the Empire do not know Vaklav's identity. This is one reason the ticket is an open ticket, without a name and if the characters take time to search the corpse, they will not find any forms of identification. As a result of this discovery, any messenger they meet will inevitably have to know the name of Vaklav as they knew him. It is this discovery that might save the lives of the characters. As they take a cargo ship to Pegasus XIII, the characters may find that they are being followed, or at least accompanied. Or it could be completely normal, Lax III being one of the usual access ports to the orbiting station.
+
+## Talking to an Agent of the Empire
+
+If a player talks, voluntarily or not, out loud or over comms about the information the group is supposed to courier, an agent of the Empire will immediately intervene to get rid of the characters without further delay. A squad of Stormtroopers will attack the players before the Empire attacks the Rebel base at Itkal. This could make for some interesting consequences to work out in future game sessions!
+
+### Roba Spierre
+Roba[^4] approaches the characters as soon as they arrive on Pegasus XIII and immediately claims to be the rebels' agent. Characters, unless surprised or careless, should not fall into the trap because of a very simple clue: no one should have known they were going to Pegasus XIII and the Rebel agent awaited another contact. How would he know them?
+
+[^4]: Originally named Bob Macpherson, I changed Roba's name to be more Star Wars-y and less of a boring Earth name.
+
+Roba is in too much of a rush to close the deal. He acted out of order, which will cost him his life: his superiors decide to eliminate him so as not to risk confirming the doubts of the characters. Roba therefore disappears within an hour of his contact with the characters, who are left to draw their own conclusions. This much is known: someone knows their identity Pegasus XIII and was waiting for them, which is not reassuring.
+
+🔳 **Roba Spierre**  
+**Dexterity 4D** *Blaster 5D*  
+**Knowledge 2D+2**  
+**Mechanical 2D+2  
+Perception 3D  
+Strength 3D+2  
+Technical 2D**  
+**Capsule:** Of all the characters the players interact with, Roba Spierre is the only true agent of the Empire. He’s a good trooper but a poor spy. He will attempt to trap the players as soon as they arrive at Pegasus station, presenting himself as the next courier in the chain. Gamemasters are encouraged to channel their inner Bruce Willis in his voice, expressions, and characteristics. Roba has high ambitions, and is aware that success here would send his career on a high orbit trajectory. He is very pushy, punctuating his sentences with phrases like “You see?” He should be a good distraction but should not be too difficult to overcome.
+
+### Lily Langtree
+Lily is a Pegasus XIII entertainer and hostess. With striking red hair, emerald eyes, and a sharp intelligence to match, she’s unfortunately an agent of the Empire. She advances her pawns with a lot of subtlety and only when winning is a sure bet that she will begin to show her cards. Only after the players show their trust will she let it be known that she may well be the agent the characters are looking for. Lily is the second attempt by Empire agents to get the courier information, but this time the trap is much more subtle.
+
+![Lily]
+
+If the characters mention Roba, the agent encountered during their arrival, Lily will feign fear and confess to the characters that he is an agent of the Empire who has been pursuing her for months (which does not explain why Roba knows the identity of the characters, but that's another story).
+
+The characters can fall into the trap, especially since Lily's charms are strong and a person sensitive to this kind of arguments can lose their way. If they dig deeply they will uncover that Lily has arrived on Pegasus XIII at the same time as them and that, like them, she comes from Lax III. Of course, it could be a coincidence. If players ask Lily to explain herself, she will indicate that she took the post on Pegasus XIII 48 hours ago and before she was working at another leisure base, in the system of Leo. The characters can have doubts and they will be right.
+
+🔳 **Lily Langtree**  
+**Dexterity 3D+2  
+Knowledge 2D  
+Mechanical 2D  
+Perception 4D+1** *Hide 6D, Sneak 6D Con 7D*  
+**Strength 2D  
+Technical 2D  
+Capsule:** Coming from the planet Kiss, a planet of flowers, Lily is a premiere entertainer. She’s capable and confident, not bogged down by conscience. Her love of money is her only major fault. So when the agents of the Empire come and enlist her help in ensnaring the “VIPs”, she does not need much convincing. Lily has mastered all of the flower planet’s seduction techniques, including the ability to control her potent pheromones which are capable of making most males around her act like miniature poodles. She will use all her charms to ensnare the VIPs, but as she does not know all the ins-and-outs of the Imperial Agents’ operation, she will turn out to be a poor liar. In any case, the gamemaster is encouraged to portray her as a lovely and naive gamemaster character, a sort of space Marylin Monroe from the movie *Nobody Else But You*.
+
+### Pegasus Station Communications Systems
+All communication systems are closely monitored by the Empire's intelligence agents and all audio and video links are listened to and, if necessary, diverted.
+
+### Stormtrooper Positions
+The Imperial agents quickly dispatched several Stormtrooper squads to the station to monitor the security services of Pegasus XIII and to ensure that the plan was proceeding normally.
+
+They are to appear only at the last minute, when Imperial agents have the information they want.
+
+**Their orders:**
+- Intervene as soon as the characters have betrayed themselves.
+- Intervene as soon as the characters have discovered the deception
+- Intervene as soon as the characters are about to leave the station.
+- Intervene as soon as the characters are about to leave the station (beforehand, we will have tried to hold them back by less radical means - see the paragraph **Blocking the Characters**).
+
+### Instructions to Dealers
+The management of Pegasus XIII, under the orders of the Empire, has issued the following instruction to all its employees: the characters are VIPs, and they must be made to win and satisfy all their desires.
+
+This instruction comes from the intelligence agents of the Empire, who think that by plunging the characters into drunkenness and the madness of a night of gambling will increase the chances that something will slip.
+
+This tactic has advantages and disadvantages: the employees of Pegasus XIII can talk to each other, rumors can spread about the VIP status of the characters and return to the players’ ears which will not fail to amaze them. Also, professional players visiting the station can take umbrage that they were not offered the same VIP status and confront the characters. Whatever occurs, the players can quickly make use of the situation and use it to benefit their characters.  They can then legitimately wonder why and act on it. 
+
+This is precisely what **Aaron Prast** will think, an old gambling table regular who can probe the characters about the games they've played, why they are here, and otherwise size up the characters' VIP status.
+
+🔳 **Aaron Prast**  
+**Dexterity 3D+2  
+Knowledge 3D  
+Mechanical 2D+1  
+Perception 4D** *Gambling 7D, Hide 5D, Con 6D*  
+**Strength 2D+1  
+Technical 2D+1  
+Capsule:** Aaron is a gambler originally from the Inner Core. He has traveled much to earn credits from gambling tables across the galaxy. He does not have strong political views and the intrigues of the Empire are indifferent to him, although on thinking about it, well, the henchmen of Paporius VI tend to stoke his temper. Odds? He gives the Rebel Alliance 10 against 1 that they don’t finish the race. Aaron has a habit of flipping a very old piece of yellow metal[^5] between his fingers, claiming it’s gold. It’s an antique piece from a collection. Aaron is a professional gambler and player who can recognize a cheater across the room. He himself does not cheat–he is not crazy and understands the game can always turn against him. When he approaches the characters, it is not to reproach them, but to offer a deal–if they play the same tables as him he can gain a few tidbits about who the players are, and what their goals are. He is cautious about the VIP newcomers, but hopes to profit from this gamble of which he does not completely understand neither the ins nor outs.
+
+[^5]: Aaron Prast is supposed to have an actual coin from Old Mexico on Earth – I left that out and just called it a piece of gold to not break the suspension of disbelief.
+
+## Blocking the Characters
+For the Empire's plan to succeed, it takes time. It's necessary that the characters do not leave Pegasus XIII, which is a kind of gilded prison for them. First, the Imperial agents will intervene against any attempted departure of the characters, gently so as not to ruin all their hopes. All pretexts will be good to prevent characters from leaving the station: the seats on this shuttle are full, the shuttles are grounded for repair, and the station is under quarantine, et cetera.
+
+The management can even go so far as to make them win the “Super Jackpot”, which consists of a week all expenses paid on the station: the important thing is that the characters stay and talk!
+
+If the Imperial agents’ plan is overturned or discovered by the characters, their orders are then to capture them alive, so that the Imperials can try to make them speak in a more traditional way. This is a tactic of the last resort for the Imperials, who believe they derive much more benefit from their current scheme. 
+
+In fact, they are never sure of the information obtained by torture: it is always possible that the “patient” gives false coordinates, the verification of which will take time.
+
+## Conclusion
+After 72 hours, the information held by the player characters no longer has any value: the rebel fleet will have found another transit port and Empire cruisers could not intercept it, that's the good news. Indeed, when Alliance intelligence realizes that the players have not checked in, or that a link in the communication chain has been broken, they immediately take emergency measures and Itkal base is evacuated.
+
+For the characters all is not so rosy. Imperial agents are also aware of the 72-hour period, and will increasingly put pressure on the characters to make sure the information is gained when it matters. 
+
+If the 72-hour window passes, they will give the green light for the agents embarked on Pegasus XIII to purely and simply eliminate the characters. It will be interesting to see how the players find a way to leave the station as quickly and as discreetly as possible under this pressure.
+
+## Last Chance
+In the last six hours before the deadline or before the characters discover the honeypot, the agents of the Empire will attempt a last move. They will order more officers to capture the characters alive (which ay not be so easy), and start torturing them by asking them about the courier data, and the location of the Rebel base. 
+
+After a few minutes, a known face will intervene (either Lily, or even Roba) who “gets rid of the agents” and “delivers” the characters. Soon in passageways, he or she will ask the characters to pass him or her the message very quickly because it may be impossible for everyone to get off this station alive.
+
+If the characters fall into the trap, the curtain is drawn and Stormtroopers intervene. Our heroes
+may be very surprised to see the agents allegedly
+eliminated by their savior among the attackers!
+
+If the characters still refuse to give their information, the curtain is still pulled back to reveal a squad of stormtroopers, but in this case the characters can attempt to escape without betraying the fleet or their base’s location.
