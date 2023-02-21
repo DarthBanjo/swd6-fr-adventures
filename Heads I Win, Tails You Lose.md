@@ -1,4 +1,4 @@
-# Tails I Win, Heads You Lose.
+# Heads I Win, Tails You Lose.
 ##### A scenario for Star Wars D6 where players learn the meaning of the term “gilded cage”, and where the gamemaster strives to illustrate the different forms of character paranoia.
 
 [banner]: https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_banner.jpg "Man Running from ISB Agents" 
@@ -7,7 +7,7 @@
 [pegasus]: https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_pegasus.png "Pegasus Icon" 
 [pegasusmap]: https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/assets/01_station.jpg "Map of Pegasus Station" 
 
-**Original Title:** Pile Je Gagne, Face Tu Perds  
+**Original Title:** Pile Je Gagne, Face Tu Perds  **From:** Backstab Magazine Issue #01  
 **Original Text:** Jean-Pierre Pécau **Illustrations:** Greg Cervall **Player Aids:** Thibaud Béghin
 
 *Translator random notes: I've used footnotes to mark things where appropriate.* 
