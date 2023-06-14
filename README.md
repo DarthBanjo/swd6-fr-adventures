@@ -12,4 +12,4 @@ Roughly translated by Darth Banjo in 2023 from Backstab Magazine, originally pub
 
 *TBD*   
 [The Steel Revolt Campaign: In Search of the Cursed Temple](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/30.md)  
-33 Imperial Adventure: "Beware, stars! ...of idealistic youth who idolize sports."
+["Beware, stars! ...of idealistic youth who idolize sports."](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/33.md)  
