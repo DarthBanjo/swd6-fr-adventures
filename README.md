@@ -8,8 +8,7 @@ Roughly translated by Darth Banjo in 2023 from Backstab Magazine, originally pub
 [The T-65 Project](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/27.md)  
 [The Steel Revolt Campaign: The Ghost Ship](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/28.md)  
 [The Steel Revolt Campaign: Soft(ware) Parade](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/29.md)  
-
+[The Steel Revolt Campaign: In Search of the Cursed Temple](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/30.md)  
 
 *TBD*   
-[The Steel Revolt Campaign: In Search of the Cursed Temple](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/30.md)  
 ["Beware, stars! ...of idealistic youth who idolize sports."](https://github.com/DarthBanjo/swd6-fr-adventures/blob/main/33.md)  
