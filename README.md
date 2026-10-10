@@ -3,7 +3,7 @@
 - [Descartes Supplement Adventures In English](#descartes-supplement-adventures-in-english)
 
 ## Backstab Magazine Adventures In English
-Roughly translated by darthbanjo in 2023 (and 2025 because apparently I forget to finish things) from *Backstab Magazine*, originally published in French. Backstab was a French roleplaying magazine published from 1996 to 2005 by FC Publications. Some Star Wars roleplaying articles and adventures were printed in the magazine.  
+Roughly translated by darthbanjo in 2023 (and 2025 because apparently I forget to finish things) from *Backstab Magazine*, originally published in French. Backstab was a French roleplaying magazine published from 1996 to 2005 by FC Publications. Some Star Wars roleplaying articles and adventures were printed in the magazine.  test
  
 * [Heads I Win, Tails You Lose!](./01_backstab_magazine/01/)  
 * [A Few Loose Screws...](./01_backstab_magazine/07/)  
