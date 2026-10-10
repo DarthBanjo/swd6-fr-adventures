@@ -1,2 +1,2 @@
 markdown: kramdown
-theme: just-the-docs
+remote_theme: sighingnow/jekyll-gitbook
