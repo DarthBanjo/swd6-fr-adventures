@@ -1,2 +1,6 @@
 markdown: kramdown
 permalink: /:title/
+theme: just-the-docs
+
+# Just the Docs theme configuration
+color_scheme: dark
