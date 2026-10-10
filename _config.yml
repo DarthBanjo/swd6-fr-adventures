@@ -20,3 +20,5 @@ ordered_collections:
   - descartes_supplement
 
 page_width: 800px
+exclude:
+  - _draft
