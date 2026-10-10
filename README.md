@@ -1,4 +1,8 @@
-# Translated Star Wars D6 Roleplaying Game Adventures <!-- omit in toc -->
+---
+layout: home
+title: Translated Star Wars D6 Roleplaying Game Adventures
+permalink: /
+---
 - [Backstab Magazine Adventures In English](#backstab-magazine-adventures-in-english)
 - [Descartes Supplement Adventures In English](#descartes-supplement-adventures-in-english)
 
