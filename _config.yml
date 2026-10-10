@@ -6,3 +6,10 @@ toc:
     enabled: true
     h_min: 1
     h_max: 3
+    
+ordered_collections:
+  - backstab_magazine
+  - pages
+  - others
+
+page_width: 800px
