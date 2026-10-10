@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Translated Star Wars D6 Roleplaying Game Adventures
+title: Star Wars D6 Roleplaying Game Adventures Translated from French
 permalink: /
 ---
 
