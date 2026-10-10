@@ -6,10 +6,17 @@ toc:
     enabled: true
     h_min: 1
     h_max: 3
-    
+
+collections:
+  backstab_magazine:
+    output: true
+    permalink: /:collection/:path/
+  descartes_supplement:
+    output: true
+    permalink: /:collection/:path/
+
 ordered_collections:
   - backstab_magazine
   - descartes_supplement
-  - others
 
 page_width: 800px
