@@ -1,6 +1,7 @@
 title:            SWD6 FR Adventures
 longtitle:        Star Wars D6 French Adventures
 
+baseurl: “/swd6-fr-adventures”
 remote_theme: sighingnow/jekyll-gitbook
 toc:
     enabled: false
