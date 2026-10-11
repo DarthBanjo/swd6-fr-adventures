@@ -21,7 +21,7 @@ ordered_collections:
   - backstab_magazine
   - descartes_supplement
 
-favicon_path: assets/favicon.png
+favicon_path: assets/favicon.ico
 
 page_width: 800px
 exclude:
