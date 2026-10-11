@@ -7,6 +7,9 @@ toc:
     h_min: 1
     h_max: 2
 
+extra_css: assets/custom.css
+extra_footer_js: assets/heading-links.js
+
 collections:
   backstab_magazine:
     title: "Backstab Magazine"

@@ -1,0 +1,24 @@
+.heading-link {
+margin-left: 0.5em;
+opacity: 0;
+text-decoration: none;
+}
+h1:hover .heading-link,
+h2:hover .heading-link,
+h3:hover .heading-link,
+.heading-link:focus {
+opacity: 1;
+}
+
+blockquote.statblock {
+border-left: 5px solid #000 !important;
+background: 
+#d9d9d9 !important;
+color: #000 !important;
+padding: 0.5em 1em !important;
+}
+blockquote.statblock p,
+blockquote.statblock strong,
+blockquote.statblock em {
+color: #000 !important;
+}
