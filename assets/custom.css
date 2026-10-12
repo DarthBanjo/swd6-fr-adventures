@@ -10,7 +10,24 @@ h3:hover .heading-link,
 opacity: 1;
 }
 
-blockquote.statblock {
+blockquote.block-statblock,
+blockquote:has(> p.block-statblock) {
+border-left: 5px solid #000 !important;
+background: 
+#d9d9d9 !important;
+color: #000 !important;
+padding: 0.5em 1em !important;
+}
+blockquote.block-statblock p,
+blockquote.block-statblock strong,
+blockquote.block-statblock em,
+p.block-statblock,
+p.block-statblock strong,
+p.block-statblock em {
+color: #000 !important;
+}
+
+/*blockquote.statblock {
 border-left: 5px solid #000 !important;
 background: 
 #d9d9d9 !important;
@@ -21,4 +38,4 @@ blockquote.statblock p,
 blockquote.statblock strong,
 blockquote.statblock em {
 color: #000 !important;
-}
+}*/
