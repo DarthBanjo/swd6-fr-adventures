@@ -8,7 +8,7 @@ toc:
     h_max: 2
 
 extra_css: assets/custom.css
-extra_footer_js: assets/heading-links.js
+extra_header_js: assets/heading-links.js
 
 collections:
   backstab_magazine:
