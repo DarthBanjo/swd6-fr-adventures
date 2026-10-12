@@ -7,8 +7,8 @@ toc:
     h_min: 1
     h_max: 2
 
-extra_css: assets/custom.css
-extra_header_js: assets/heading-links.js
+extra_css: assets/z_custom.css
+extra_header_js: assets/z_heading-links.js
 
 collections:
   backstab_magazine:

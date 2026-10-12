@@ -8,6 +8,7 @@
       link.className = 'heading-link';
       link.textContent = '#';
       link.setAttribute('aria-label', 'Link to this section');
+      h.appendChild(link);
     });
   }
 
