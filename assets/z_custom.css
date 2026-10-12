@@ -12,12 +12,12 @@ opacity: 1;
 
 .img-right {
 float: right;
-max-width: 40%;
+max-width: 40% !important;
 margin: 0 0 1em 1.5em;
 }
 .img-left {
 float: left;
-max-width: 40%;
+max-width: 40% !important;
 margin: 0 1.5em 1em 0;
 }
 .markdown-section h1,
